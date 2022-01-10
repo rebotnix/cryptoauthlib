@@ -1,4 +1,6 @@
 CryptoAuthLib - Microchip CryptoAuthentication Library {#mainpage}
+Extend for REBOTNIX GUSTAV NX Products
+https://rebotnix.com
 ====================================================
 
 Introduction
